@@ -2,7 +2,8 @@
 
 Bienvenido al repositorio de mi portafolio profesional. Aquí combino más de **10 años de experiencia en el sector contable** con el poder de **Python** para transformar procesos financieros manuales en arquitecturas automatizadas y escalables.
 
-![Portafolio Preview](screenshots/hero_preview.png) *(Nota: Agrega aquí tu captura de pantalla)*
+![Portafolio Preview](<img width="1426" height="722" alt="image" src="https://github.com/user-attachments/assets/ff5620bd-95a6-4db0-a038-329766d2f2ad" />
+) 
 
 ## 🎯 El Valor Diferencial: Trayectoria Híbrida
 A diferencia de un desarrollador tradicional, mi enfoque nace de la **operativa real**:
