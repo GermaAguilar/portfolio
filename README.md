@@ -17,6 +17,3 @@ A diferencia de un desarrollador tradicional, mi enfoque nace de la **operativa 
 1. **Análisis Contable Automático:** Eliminación de cuellos de botella mediante flujos de datos inteligentes.
 2. **Ecosistema de Reportes Corporativos:** Monitoreo financiero en tiempo real conectado a ERPs.
 3. **Integración SAP Financial:** Herramientas de extracción para auditoría y control de gestión.
-
----
-**Handcrafted with Python & 💎 by [Germain Aguilar](https://github.com/GermaAguilar)**
